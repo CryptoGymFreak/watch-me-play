@@ -69,6 +69,7 @@ inquirer
       }
 
       if (answers.description) {
+        template += "# description \n\n";
         template += answers.description + "\n\n";
       }
 

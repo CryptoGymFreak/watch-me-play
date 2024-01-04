@@ -1,29 +1,35 @@
-# Watch me play 
+# Watch me Play 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-this is a read me generator which is amazing because anyone now can make a readme fast and easy.
+# description 
+
+this is a readme generator
 
 # Table of Contents 
 
-##Instsallion ##Usage ##Contributions ##Test ##Quesions
+Installation, Usage
 
 # Installation Instructions 
 
-you will have to download it from my github account. 
+install via github @https://github.com/CryptoGymFreak/watch-me-play 
 
 ## Usage 
 
-all you have to do is answer the quesions when Prompted.
+answer the questions as they come up.
 
 # Contributions 
 
-i had my private tutor help me.
+private tutor helped me accomplish this feat.
 
 # Test 
 
-ok
+please answer the question as they come up
 
 # Questions 
 
-you can contact me via my github account @https://github.com/CryptoGymFreak/watch-me-play or my email: james@tmwc.ca
+contact me via github @https://github.com/CryptoGymFreak/watch-me-play also you can contact me threw business email @ james@tmwc.ca
+
+## video
+
+ https://drive.google.com/file/d/1DXjOkpODy-ZhhZEeG2SelNZcr0hSfuE0/view?usp=sharing
